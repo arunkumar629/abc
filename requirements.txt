@@ -60,7 +60,7 @@ debugpy==1.0.0
 decorator==4.4.2
 defusedxml==0.7.1
 descartes==1.1.0
-detectron2 
+
 dill==0.3.4
 distributed==1.25.3
 distro==1.6.0
